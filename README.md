@@ -20,16 +20,18 @@ Coming up next:
 - 🧪 Working on fun beginner-friendly projects to apply my skills  
 - 🚀 Keep growing, building, and discovering the tech world one project at a time
 
-*"I may be new to coding, but I’m already in love with what it can do."*
-
 <div align="center">
 
+*"I may be new to coding, but I’m already in love with what it can do."*
+
 <h3> Find Me Here </h3>
+
 <p align="center">
   <a href="https://www.instagram.com/prabrishadas" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3> Tech Stack </h3>
+
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
@@ -41,28 +43,34 @@ Coming up next:
   </a>
 </p>
 
-
 <hr>
 
-## 📊 GitHub Stats 📊
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pdas2506&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pdas2506&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pdas2506" alt="GitHub Stats" />
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Pdas2506&theme=radical&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=Pdas2506&theme=buefy&hide_border=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pdas2506" alt="GitHub Streak" />
-</picture>
+## GitHub Stats 
 
-## 🏆 GitHub Trophies 🏆
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdas2506&theme=radical&hide_border=false&show_icons=true&border_radius=25&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdas2506&theme=buefy&hide_border=false&show_icons=true&border_radius=25&layout=compact&border_color=a8a8a8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdas2506&theme=default&hide_border=false&show_icons=true&border_radius=25&layout=compact&border_color=a8a8a8" />
+</picture><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pdas2506&theme=radical&hide_border=false&show_icons=true&border_radius=25" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pdas2506&theme=buefy&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pdas2506&theme=default&hide_border=false&show_icons=true&border_radius=25&border_color=a8a8a8" />
+</picture><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pdas2506&theme=radical&border_radius=25" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pdas2506&theme=buefy&border_radius=25&border_color=a8a8a8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pdas2506&theme=default&border_radius=25&border_color=a8a8a8" />
+</picture><br>
+
+## GitHub Trophies 
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Pdas2506&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Pdas2506&theme=default&no-frame=false&no-bg=false&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Pdas2506" alt="GitHub Trophies" />
-  </picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Pdas2506&theme=default&no-frame=false&no-bg=false&margin-w=10&border_color=a8a8a8" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Pdas2506" />
+</picture>
+
 <hr>
 
 "<i>Learning to code one bug at a time — but always with a smile </i>😊”

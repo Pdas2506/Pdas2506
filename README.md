@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-Hi! I'm currently diving into the beautiful chaos of code, one step at a time 💖  
+Hi! I'm currently diving into the beautiful chaos of code, one step at a time.<br>
 I’ve started my journey with **Python** and slowly exploring the magic of **Frontend Web Development** with **HTML & CSS**.  
 
 I’m currently focused on:
@@ -26,22 +26,17 @@ Coming up next:
 
 <h3> Find Me Here </h3>
 
-<p align="center">
-  <a href="https://www.instagram.com/prabrishadas" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/prabrishadas"><img src="assets/findme/linkedin.svg" alt="LinkedIn" height="30" /></a>
+<a href="https://instagram.com/prabrishadas"><img src="assets/findme/instagram.svg" alt="Instagram" height="30" /></a>
+<a href="https://www.leetcode.com/prabrishadas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/findme/leetcode_dark.png" /><source media="(prefers-color-scheme: light)" srcset="assets/findme/leetcode_light.png" /><img src="assets/findme/leetcode_light.png" alt="LeetCode" height="30" /></picture></a>
+<a href="mailto:prabrishadas05@gmail.com"><img src="assets/findme/mail.png" alt="Email MG" height="30" /></a>
 
 <h3> Tech Stack </h3>
 
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-         alt="c" width="40" height="40" style="display:inline-block;" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="python" width="40" height="40" style="display:inline-block;" />
-  </a>
-</p>
+<a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" height="40" /></a>
+<a href="https://www.cprogramming.com"><img src="assets/skills/c.svg" alt="C Language" height="40" /></a>
+<a href="https://isocpp.org/"><img src="assets/skills/cpp.svg" alt="Cpp Language" height="40" /></a>
+<a href="https://www.java.com/en/"><img src="assets/skills/java.png" alt="Java Language" width="40"/></a>
 
 <hr>
 
@@ -72,6 +67,16 @@ Coming up next:
 </picture>
 
 <hr>
+
+<h3> A cute little Animation I found.. because, why not? </h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/animations/snake_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/animations/snake_light.gif" />
+  <img src="assets/animations/snake_light.gif" />
+</picture>
+
+<h1></h1>
 
 "<i>Learning to code one bug at a time — but always with a smile </i>😊”
 </div>
